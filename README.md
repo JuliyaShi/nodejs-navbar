@@ -1,5 +1,5 @@
-# nodejs-navbar
+vnodejs-navbar
 
 Hi there!
 This is the simplest realisation navbar on node.js
-You can run project by command <bold>npm run dev<bold>
+You can run project by command # npm run dev# 
